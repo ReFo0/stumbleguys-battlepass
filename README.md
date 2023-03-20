@@ -1,2 +1,6 @@
-# stumble-guys-battle-pass
-stumble guys get battle pass internal
+# stumbleguys-battle-pass
+
+
+* Stumble Guys get battle pass
+
+* credits minhook libary
